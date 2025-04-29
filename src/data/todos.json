@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "Zrobić zakupy",
+        "description": "Kup mleko, chleb i masło",
+        "completed": false,
+        "createdAt": "2025-04-25T10:30:00Z"
+    },
+    {
+        "id": 2,
+        "title": "Napisać CV",
+        "description": "Uaktualnić doświadczenie i umiejętności",
+        "completed": true,
+        "createdAt": "2025-04-20T15:45:00Z"
+    },
+    {
+        "id": 3,
+        "title": "Zadzwonić do lekarza",
+        "description": "Umówić wizytę kontrolną",
+        "completed": false,
+        "createdAt": "2025-04-27T08:00:00Z"
+    },
+    {
+        "id": 4,
+        "title": "Przerobić kurs TypeScript",
+        "description": "Moduły o typach zaawansowanych i generics",
+        "completed": false,
+        "createdAt": "2025-04-26T12:10:00Z"
+    }
+]
